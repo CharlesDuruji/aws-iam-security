@@ -21,7 +21,7 @@ I set up IAM users, groups, and permissions in AWS and added MFA for security. T
 ![User](user-group.png)
 
 ### Permissions
-![Permissions](permissions.png)
+![Permissions](Permissions.png)
 
 ### MFA Enabled
 ![MFA](mfa-enabled.png)
